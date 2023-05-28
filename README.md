@@ -4,7 +4,7 @@
 
 Created in Python 3 using the [HARFANG 3D 1.2.0 framework](https://www.harfang3d.com).
 
-![](img/Earth.png)
+[![](img/Earth.png)](https://youtu.be/BShzWEcVhmE)
 
 ## How to run [Windows]
 
